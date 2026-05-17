@@ -1,0 +1,16 @@
+# Essential Libraries
+opencv-python==4.8.0 # OpenCV for image processing and webcam support
+numpy==1.25.2       # Numerical computations
+tensorflow==2.12.0  # TensorFlow/Keras for deep learning
+yolov5==6.2         # YOLO-based detection framework (if using YOLOv5)
+
+# Utility Libraries
+matplotlib==3.8.0   # Visualization tools for debugging and plotting (optional)
+Pillow==10.1.0      # Image manipulation
+scikit-learn==1.3.0 # Preprocessing tools (if required)
+
+# Streamlit (Optional, for building UI if used in your project)
+streamlit==1.25.0
+
+# Other Utilities
+pandas==2.1.0       # Data handling for any logging (if needed)
